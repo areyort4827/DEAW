@@ -19,18 +19,27 @@
 ✅ Trabajar con ramas  
 ✅ Editar archivos Markdown  
 
-👥 Participantes del Proyecto
-NOMBRE	GITHUB
-Isidoro Rodríguez	Isidoro6/DEAW
-Pablo Román	pablorohe2004/DEAW
+---
 
-🤝 Contribuciones
+## 👥 Participantes del Proyecto
+
+| NOMBRE            | GITHUB                  |
+|-------------------|-------------------------|
+| Isidoro Rodríguez | [Isidoro6/DEAW](https://github.com/Isidoro6/DEAW) |
+| Pablo Román       | [pablorohe2004/DEAW](https://github.com/pablorohe2004/DEAW) |
+
+---
+
+## 🤝 Contribuciones
+
 ¡Las contribuciones son bienvenidas! Si encuentras un error o quieres mejorar este repositorio, no dudes en hacer un fork y enviar un pull request.
 
-📜 Licencia
+---
+
+## 📜 Licencia
+
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
 
+---
+
 ⭐ ¡No olvides darle una estrella al repo si te fue útil!
-
-Solo tienes que copiar este bloque de texto y pegarlo en tu archivo `README.md`. Si necesitas que el README tenga versión en inglés o incluya imágenes o badges, también puedo ayudarte.
-
